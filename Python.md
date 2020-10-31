@@ -7,3 +7,4 @@
   - [Python GUI之tkinter布局管理](https://blog.csdn.net/yingshukun/article/details/53983812)：pack布局，grid布局，place布局。
   - [Python Tkinter Grid布局管理器详解](https://www.cnblogs.com/ruo-li-suo-yi/p/7425307.html)：grid布局
   - [python - Tkinter Canvas 缩放+移动/平移](https://www.coder.work/article/348478)：一套鼠标滚轮控制图像缩放的界面的代码
+  - [【python】tkinter教程、35个tkinter示例代码和GUI图示](https://simple.blog.csdn.net/article/details/86662104)：只是一些示例，没有详细的参数解释
