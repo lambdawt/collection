@@ -1,2 +1,2 @@
 # Web-page-collection
-收藏网页
+网页收藏
