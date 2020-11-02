@@ -1,4 +1,4 @@
-# 收录与Python知识相关的网页
+# 收录与Python知识相关网址
 
 ## Python库的使用
 - **tkinter**
