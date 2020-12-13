@@ -6,6 +6,7 @@
 - [GEE 官方文档](https://developers.google.com/earth-engine)
 - [GEE 官方数据集查找网站](https://developers.google.com/earth-engine/datasets/)
 - [GEE 地图](https://explorer.earthengine.google.com/#workspace)
+- [Awesome-GEE](https://github.com/giswqs/Awesome-GEE)：谷歌地球引擎资源精选列表
 - [GEE API源码-github仓库](https://github.com/google/earthengine-api)
 - [GEE 网上论坛](https://groups.google.com/g/google-earth-engine-developers?pli=1)：可搜索问题
 - [GEE python-geemap Youtube英文教程]()：讲了geemap库的使用，英文教程，使用字幕翻译观看
