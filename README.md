@@ -1,2 +1,1 @@
-# Web-page-collection
-网页收藏
+# Collect interested GitHub repository, website.
