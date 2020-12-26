@@ -1,4 +1,5 @@
-## 软件
+# Software
+
 **科学上网代理（[配置参考](https://hijk.art/)）**
 
 - **Windows**
