@@ -1,6 +1,5 @@
 # Google Earth Engine
 
-## 收录GEE相关网址
 - [GEE 官网](https://earthengine.google.com/)
 - [GEE JS Code Editor](https://code.earthengine.google.com/)
 - [GEE 官方文档](https://developers.google.com/earth-engine)
