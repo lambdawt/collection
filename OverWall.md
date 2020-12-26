@@ -1,8 +1,11 @@
 # scientific surfing the Internet
 
 **Website**
+- **Tutorial**
   - [网络跳跃](https://v2raytech.com/)
   - [科学上网技术分享](https://yugogo.xyz/)
+- **Airport**
+  - [闪电](https://yaofan.cc/lighting/)
 
 **Software（[配置参考](https://hijk.art/)）**
 
