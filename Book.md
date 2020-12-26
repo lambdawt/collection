@@ -1,4 +1,5 @@
-## 电子书
+## Book
+
 **在线电子书**
 - [吴恩达机器学习课程笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)：斯坦福大学2014（吴恩达）机器学习教程中文笔记
 - [吴恩达深度学习课程笔记](https://github.com/fengdu78/deeplearning_ai_books)：deeplearning.ai——Coursera深度学习教程中文笔记
