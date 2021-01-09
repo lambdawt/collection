@@ -1,6 +1,12 @@
 # scientific surfing the Internet
 
 **Website**
+- **Apporach**
+  - [翻墙-科学上网](https://github.com/bannedbook/fanqiang)
+  - [自由上网方法](https://github.com/Alvin9999/new-pac/wiki)
+  - [w3-goto-world](https://github.com/hoochanlon/w3-goto-world)
+  
+  
 - **Tutorial**
   - [网络跳跃](https://v2raytech.com/)
   - [科学上网技术分享](https://yugogo.xyz/)
