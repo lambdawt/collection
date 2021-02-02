@@ -6,6 +6,7 @@
   - [自由上网方法](https://github.com/Alvin9999/new-pac/wiki)
   - [w3-goto-world](https://github.com/hoochanlon/w3-goto-world)
   - [蓝灯](https://github.com/getlantern/lantern)
+  - [](https://www.vpngate.net/cn/)
   
   
 - **Tutorial**
