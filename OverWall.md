@@ -6,7 +6,7 @@
   - [自由上网方法](https://github.com/Alvin9999/new-pac/wiki)
   - [w3-goto-world](https://github.com/hoochanlon/w3-goto-world)
   - [蓝灯](https://github.com/getlantern/lantern)
-  - [](https://www.vpngate.net/cn/)
+  - [VPN Gate](https://www.vpngate.net/cn/):VPN Gate 学术实验项目是一个在线服务，由日本国立筑波大学研究生院为学术研究目的运营。本研究的目的是推广 "全球分布式公共 VPN 中继服务器" 的知识。
   
   
 - **Tutorial**
